@@ -64,7 +64,7 @@ tversion=(cyan+"\t\t   Version : 1.0.1 ")
 
 line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~")
  
-dtls=(yellow+"\t\t Created By: Redwiat ")
+dtls=(yellow+"\t\t MODIFIED BY: MOYNUL(HUNTER BABA) ")
 
 note=(cyan+"Note: I wont be responsible fo any illigal activites. >> This RedBomber tool is for use in Bangladesh only. Use our Global version for worldwide use.")
 
