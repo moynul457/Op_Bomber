@@ -46,7 +46,7 @@ end = '\033[0m'
 
 purple="\033[0;35m"
 
-logo=(green+""" \n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogra   \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n
+logo=(green+""" \n\x1b[1;91m<<------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogra   \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n
 
 
 
