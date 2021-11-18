@@ -89,7 +89,7 @@ print(line)
 print(' ')
 
 number=str(input(red+"[➙] Enter Your Number : "))
-amount=int(input(cyan+"[➙] Enter The Amount : "))
+amount=int(input(cyan+"[➙] Enter The Amount(100) : "))
 
 url1 = "https://ss.binge.buzz/otp/send/login"
 
@@ -136,9 +136,9 @@ for i in range (amount):
 	resp4 = requests.post(url4, headers=headers4,data=data4)
 	resp5 = requests.post(url5, headers=headers5, data=data5)
 	resp = requests.post(url6, headers=headers6, data=data6)	
-	print(str(i+1)+green+'.	➙SMS Sent 😈✅')
+	print(str(i+1)+green+'.	➙MOYNUL SENT 😈✅')
 	
 print('					')
-print(cyan+'\t\tThanks For Using RedBomber Bangladesh By Redwiat - RedHunter Team')
+print(cyan+'\t\tThanks For Using RedBomber Bangladeshi MOYNUL HASSAN- ')
 
 
